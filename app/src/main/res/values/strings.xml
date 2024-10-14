@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Mi nuevo proyecto JIRR</string>
+</resources>
+<resources>
+<string name="app_name">MiAplicación</string>
+<string name="Bienvenido">Bienvenido!</string>
+</resources>
+<resources>
+<string name="app_name">MyApp</string>
+<string name="Welcome">Welcome!</string>
+</resources>
+<resources>
+<string name="app_name">MonApp</string>
+<string name="Bienvenue">Bienvenue!</string>
+</resources>
+<resources>
+<string name="app_name">MeineApp</string>
+<string name="Willkommen">Willkommen!</string>
+</resources>
+
